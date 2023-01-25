@@ -5,8 +5,17 @@
 //     console.log("this is getting dumb");
 // }
 
-var shapes = ["triangle","square","pentagon","circle"];
-for( var x = 0; x < shapes.length; x++ ) {
-    console.log(shapes[x]);
+// var shapes = ["triangle","square","pentagon","circle"];
+var topics = ["HTML","CSS","GIT","JavaScript"]
+function listtopics() {
+    for( var x = 0; x < topics.length; x++ ) {
+        console.log(topics[x]);
+    }
 }
+
+listtopics();
+
+var randomTopic = topics[Math.floor(Math.random() * topics.length)];
+console.log( "Random topic " + randomTopic);
+
 
