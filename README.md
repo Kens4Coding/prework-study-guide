@@ -3,12 +3,12 @@
 ## Description
 A simple website to present a prework study guide for University of Denver's coding boot camp class and a place to add notes as I go along.
 
-##note to self
+## note to self
 once published add URL here
 
-##Subjects:
+## Subjects:
 HTML,CSS,Git and JavaScript
 
-##License
+## License
 Please refer to the LICENSE in the repo.
 
